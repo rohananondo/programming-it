@@ -1,0 +1,29 @@
+body{
+    background-image: url(czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvMjc1LWFrZTYzNTEtY2hpbS1qaXRlLWxfMS5qcGc.webp);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+    background-attachment: fixed;
+}
+.cart{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.cor{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 4em;
+    font-weight: bold;
+    background-color: blue;
+    color: white;
+}
+.but{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+    
+}
